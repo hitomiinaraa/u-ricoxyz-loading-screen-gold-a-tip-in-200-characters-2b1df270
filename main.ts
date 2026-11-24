@@ -1,4 +1,3 @@
-// Revision note: the warnings-as-flirt image stays; the line is unchanged.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
