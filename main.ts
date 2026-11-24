@@ -1,3 +1,4 @@
+// A joke that turns the compiler's nagging into a flirtatious nudge, so the reader relaxes instead of panicking.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
